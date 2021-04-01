@@ -5,8 +5,8 @@ This provider allows to easily interact with EfficientIP's [SOLIDserver](https:/
 It allows to manage supported resources through CRUD operations for efficient DDI orchestration.
 
 <p align="center">
-  <a align="center" href="https://www.efficientip.com/resources/video-what-is-ddi/">
-    <img width="560" src="https://i.ytimg.com/vi/daQ0xEWNvYY/maxresdefault.jpg" title="What is DDI ?">
+  <a target="_blank" align="center" href="https://www.efficientip.com/cloud-automation-terraform-ddi/">
+    <img width="560" src="https://www.efficientip.com/wp-content/uploads/Banner-terraform-social.jpg" title="Cloud Automation: How to Use EfficientIP Terraform DDI Provider">
   </a>
 </p>
 
